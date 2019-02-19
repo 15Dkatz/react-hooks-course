@@ -1,0 +1,13 @@
+@import url('https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css');
+@import url('https://fonts.googleapis.com/css?family=Economica|Roboto+Condensed');
+
+body {
+  margin: 5%;
+  text-align: center;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+.CreateReaction > span {
+  margin: 5;
+  cursor: 'pointer';
+}
