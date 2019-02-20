@@ -18,4 +18,4 @@ export const REACTION_OBJECTS = [
     type: 'REACTION_LAUGH',
     emoji: '😂'
   } 
-]
+];
